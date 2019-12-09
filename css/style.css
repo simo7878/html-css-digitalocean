@@ -108,6 +108,7 @@ body {
 }
 .button_form .btn-primary {
   margin-bottom: 15px;
+  color: white;
 }
 /* TESTIMONIALS */
 .testimonials {
@@ -139,7 +140,26 @@ body {
 .customer_link  {
   text-align: center;
 }
-
+/* SECTION DEPLOY */
+.section_deploy {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  margin-top: 1195px;
+  padding: 50px;
+}
+.deploy_title {
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 40px;
+  color: #031B4E;
+}
+.deploy_p {
+  font-size: 24px;
+  font-weight: 400;
+  color: #031B4E;
+}
+/* MEDIA Q */
 @media screen and (min-width: 992px) {
   .list_logo  li {
     display: inline-block;
