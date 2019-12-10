@@ -145,8 +145,8 @@ body {
   position: absolute;
   width: 100%;
   text-align: center;
-  margin-top: 1195px;
-  padding: 50px;
+  margin-top: 780px;
+  padding: 20px;
 }
 .deploy_title {
   font-size: 40px;
@@ -158,6 +158,9 @@ body {
   font-size: 24px;
   font-weight: 400;
   color: #031B4E;
+}
+.deploy_list .list_block li {
+  list-style: none;
 }
 /* MEDIA Q */
 @media screen and (min-width: 992px) {
